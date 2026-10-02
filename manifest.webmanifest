@@ -1,0 +1,16 @@
+{
+  "name": "网剧编剧制作小组",
+  "short_name": "编剧小组",
+  "description": "网剧编剧制作小组协作工作台：成员、剧本、分集大纲、人物小传、审核流程、公告待办。",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f5f6fa",
+  "theme_color": "#5b5bd6",
+  "lang": "zh-CN",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
