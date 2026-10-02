@@ -65,7 +65,8 @@
     <!-- 主内容 -->
     <main class="main">
       <header class="topbar">
-        <div>
+        <button class="menu-btn" id="menuBtn" aria-label="打开菜单">☰</button>
+        <div class="topbar-title">
           <h1 class="page-title" id="pageTitle">工作台概览</h1>
           <p class="page-desc" id="pageDesc">网剧编剧制作小组的协作总览</p>
         </div>
@@ -75,6 +76,8 @@
       <div class="content" id="content"></div>
     </main>
   </div>
+
+  <div class="sidebar-backdrop" id="sidebarBackdrop"></div>
 
   <!-- 模态框 -->
   <div class="modal-overlay" id="modalOverlay" hidden>
