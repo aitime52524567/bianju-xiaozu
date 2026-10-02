@@ -1545,7 +1545,19 @@
   /* =====================================================
      导航 & 初始化
      ===================================================== */
+  function closeMenu() {
+    document.getElementById("sidebar").classList.remove("open");
+    document.body.classList.remove("menu-open");
+  }
+
+  function toggleMenu() {
+    const sb = document.getElementById("sidebar");
+    const open = sb.classList.toggle("open");
+    document.body.classList.toggle("menu-open", open);
+  }
+
   function goView(view) {
+    closeMenu();
     state.ui.view = view;
     render();
   }
@@ -1554,6 +1566,9 @@
     const item = e.target.closest(".nav-item");
     if (item) goView(item.dataset.view);
   });
+
+  document.getElementById("menuBtn").addEventListener("click", toggleMenu);
+  document.getElementById("sidebarBackdrop").addEventListener("click", closeMenu);
 
   document.getElementById("btnReset").addEventListener("click", () => {
     if (!confirm("将清空当前所有数据并恢复为演示数据，确定继续吗？")) return;
