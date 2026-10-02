@@ -1,5 +1,5 @@
 /* 服务工作者：缓存应用外壳，支持离线打开；/api 请求不缓存，走网络 */
-const CACHE = 'writers-room-v2';
+const CACHE = 'writers-room-v3';
 const ASSETS = [
   './',
   './index.html',
