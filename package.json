@@ -1,0 +1,13 @@
+{
+  "name": "writers-room",
+  "version": "1.0.0",
+  "description": "网剧编剧制作小组协作工作台（PWA + 云端同步）",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "private": true
+}
