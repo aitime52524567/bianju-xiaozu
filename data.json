@@ -1,0 +1,37 @@
+{
+  "members": [
+    { "id": "muqddrph9yzq7", "name": "林远", "role": "总编剧", "email": "linyuan@writers.com", "phone": "138****0001", "bio": "项目总负责人，把控整体故事方向与世界观。" },
+    { "id": "muqddrphtpqc0", "name": "苏晴", "role": "编剧", "email": "suqing@writers.com", "phone": "138****0002", "bio": "主力编剧，擅长悬疑与人物弧线。" },
+    { "id": "muqddrphu0h1z", "name": "周维", "role": "剧本统筹", "email": "zhouwei@writers.com", "phone": "138****0003", "bio": "负责分集拆解与场次统筹。" },
+    { "id": "muqddrphszhlb", "name": "陈默", "role": "责任编辑", "email": "chenmo@writers.com", "phone": "138****0004", "bio": "内容审核与质量把控。" },
+    { "id": "muqddrph58s5i", "name": "郑凯", "role": "制片人", "email": "zhengkai@writers.com", "phone": "138****0005", "bio": "预算与排期管理，对接平台。" },
+    { "id": "muqddrphevja8", "name": "何雨", "role": "助理编剧", "email": "heyu@writers.com", "phone": "138****0006", "bio": "资料收集、台词打磨与格式整理。" },
+    { "id": "muqddrpheg4qs", "name": "方璐", "role": "审核人", "email": "fanglu@writers.com", "phone": "138****0007", "bio": "平台方审核对接，终审签字。" }
+  ],
+  "scripts": [
+    { "id": "muqeaybx5on5e", "createdAt": 1790911226445, "title": "风水设计师", "genre": "玄学", "targetEpisodes": 5, "status": "策划中", "ownerId": "muqddrph9yzq7", "logline": "有异能可以用天眼看出气场的玄门设计师，在设计中与暗黑能量斗争守护城市" }
+  ],
+  "episodes": [
+    { "id": "muqet75t74duj", "scriptId": "muqeaybx5on5e", "number": 1, "title": "煞位", "outline": "江城顶级楼盘「云庭」开盘当天，开发商老板陈兆年死在书房，面朝财位、表情安详，警方初步判定心源性猝死。沈砚受托验收风水，一眼看穿书房「聚财局」被人动了手脚——财位被反成「煞位」。他提出「有人用风水杀人」，被刑警林若薇当笑话。沈砚用动线、方位、气口等硬证据还原当晚：凶手借装修之便，在罗盘与镜子角度上做局。陈兆年死前留下的一枚老罗盘上，刻着一串无人看懂的小字。【钩子】沈砚破译刻痕——那是一个坐标，指向「下一处局」。", "status": "已定稿", "writerId": "muqddrphtpqc0" },
+    { "id": "muqet75t79dc0", "scriptId": "muqeaybx5on5e", "number": 2, "title": "穿心煞", "outline": "第二案：互联网公司高管猝死办公室，死因心脏病、无他杀痕迹。林若薇不得不请沈砚看现场——死者工位正对一条长廊，形成「穿心煞」。沈砚发现，陈兆年与这名高管十年前都曾是某「风水投资」骗局的合伙人。凶手的「局」并非随机，而是精准「对症」的复仇。两人翻出十年旧卷宗，找到当年被骗得倾家荡产的受害者名单。【钩子】所有「局」都遵循一本古籍《天机局》——而这本书的编订者，正是沈砚失踪多年的师父顾衍之。", "status": "已定稿", "writerId": "muqddrphtpqc0" },
+    { "id": "muqet75ta6rgi", "scriptId": "muqeaybx5on5e", "number": 3, "title": "回龙局", "outline": "沈砚找到隐居的师父顾衍之。师父承认当年参与骗局「看局」，却对《天机局》下落讳莫如深。第三案：当年诈骗案主谋之一、所谓「风水大师」马四海，死在自己精心布置的「回龙局」里——本是吸金聚气之局，却被人改成了「泄气散财」的反局，尸体旁摆着算盘，算珠指向一个数字。两人发现凶手每一步都在「以彼之道还施彼身」。【钩子】师父留下一句话后再次失踪——「局还没完，下一个，是你。」", "status": "已定稿", "writerId": "muqddrphtpqc0" },
+    { "id": "muqet75txuyjf", "scriptId": "muqeaybx5on5e", "number": 4, "title": "七星阵", "outline": "现场证据拼出「七星阵」——七处案发地在地图上连成北斗七星，已应验四命。林若薇查证：被标记的七人全是当年诈骗案的既得利益者，而沈砚竟也位列其中（其母当年因卷入骗局而死）。信任危机爆发，林若薇一度怀疑沈砚「贼喊捉贼」。沈砚反推「七星阵」阵眼，锁定最终目标与凶手身份。【钩子】真凶主动现身——是沈砚最熟悉、最不愿面对的人。", "status": "已定稿", "writerId": "muqddrphtpqc0" },
+    { "id": "muqet75tpiz3i", "scriptId": "muqeaybx5on5e", "number": 5, "title": "天机局", "outline": "真凶身份揭晓，是当年诈骗案中家破人亡的幸存者，隐忍多年以《天机局》为蓝本策划连环复仇，并故意把沈砚卷入局中，逼他直面「帮凶」的过去。最终对峙中，沈砚没有「破局」抓人，而是当场「改局」——把致命煞局改成生局，既救下最后一个目标，也给了凶手自首的机会。【钩子】沈砚翻到《天机局》最后一页——空白。而所有案发现场都缺失的那块「阵眼」物件，却在他家老宅再次出现。", "status": "已定稿", "writerId": "muqddrphtpqc0" }
+  ],
+  "characters": [
+    { "id": "muqet75t0nhq5", "scriptId": "muqeaybx5on5e", "name": "沈砚", "type": "主角", "age": 32, "personality": "理性冷静，不信鬼神，把风水当作空间心理学与建筑动线的科学化工具", "background": "风水设计师／堪舆顾问，曾因一桩风水诈骗案间接害死母亲，与师父决裂", "arc": "从独行到直面过去、学会信任", "note": "全剧视角人物" },
+    { "id": "muqet75t8d6yx", "scriptId": "muqeaybx5on5e", "name": "林若薇", "type": "主角", "age": 28, "personality": "证据至上、理性派，最初对玄学嗤之以鼻", "background": "刑侦支队民警", "arc": "从质疑到认可，成为最信任搭档", "note": "" },
+    { "id": "muqet75t8eiqn", "scriptId": "muqeaybx5on5e", "name": "顾衍之", "type": "配角", "age": 60, "personality": "讳莫如深、心怀愧疚", "background": "风水泰斗，编订古籍《天机局》，沈砚的师父", "arc": "为当年过错赎罪", "note": "主线关键人物" }
+  ],
+  "reviews": [
+    { "id": "muqetqhgahq7n", "targetType": "episode", "targetId": "muqet75t74duj", "stage": "已通过", "reviewerId": "muqddrph9yzq7", "comment": "", "date": 1790912102740 },
+    { "id": "muqetseicd3xg", "targetType": "episode", "targetId": "muqet75t79dc0", "stage": "已通过", "reviewerId": "muqddrph9yzq7", "comment": "", "date": 1790912105226 },
+    { "id": "muqetsxnasovq", "targetType": "episode", "targetId": "muqet75ta6rgi", "stage": "已通过", "reviewerId": "muqddrph9yzq7", "comment": "", "date": 1790912105915 },
+    { "id": "muqettelrld49", "targetType": "episode", "targetId": "muqet75txuyjf", "stage": "已通过", "reviewerId": "muqddrph9yzq7", "comment": "", "date": 1790912106525 },
+    { "id": "muqetu0je3guw", "targetType": "episode", "targetId": "muqet75tpiz3i", "stage": "已通过", "reviewerId": "muqddrph9yzq7", "comment": "", "date": 1790912107315 }
+  ],
+  "announcements": [],
+  "todos": [],
+  "ui": { "view": "dashboard", "selectedScript": "muqeaybx5on5e" },
+  "updatedAt": 1790912200000
+}
